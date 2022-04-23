@@ -2,6 +2,8 @@
 
 This is a solution to Tania Rascia's [How to Connect to an API with JavaScript](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/).
 
+Note: I included Rascia's comments in my script to use as reference should I need them for future projects.
+
 ## Table of contents
 
 - [Overview](#overview)
